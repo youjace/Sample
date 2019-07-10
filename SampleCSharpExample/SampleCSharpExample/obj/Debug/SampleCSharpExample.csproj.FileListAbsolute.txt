@@ -1,0 +1,7 @@
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\obj\Debug\SampleCSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\bin\Debug\SampleCSharpExample.exe.config
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\bin\Debug\SampleCSharpExample.exe
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\bin\Debug\SampleCSharpExample.pdb
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\obj\Debug\SampleCSharpExample.exe
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\obj\Debug\SampleCSharpExample.pdb
+C:\Users\jaycelle.rafanan\source\repos\SampleCSharpExample\SampleCSharpExample\obj\Debug\SampleCSharpExample.csprojResolveAssemblyReference.cache
